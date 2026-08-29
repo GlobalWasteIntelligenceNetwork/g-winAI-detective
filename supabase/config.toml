@@ -1,0 +1,2 @@
+[functions.analyze-observation]
+verify_jwt = false
